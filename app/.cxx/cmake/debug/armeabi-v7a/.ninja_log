@@ -1,0 +1,19 @@
+# ninja log v5
+33	655	657812831	CMakeFiles/Native.dir/predictor_input.cpp.o	17702a57468b3120
+51	667	657812831	CMakeFiles/Native.dir/predictor_output.cpp.o	1947d1373430023a
+28	878	657812832	CMakeFiles/Native.dir/ppredictor.cpp.o	77fca22c412dc1c5
+14	1538	657812832	CMakeFiles/Native.dir/ocr_db_post_process.cpp.o	796a6d7c63ae4cb0
+10	1823	657812832	CMakeFiles/Native.dir/ocr_clipper.cpp.o	93d42cc8ff304e40
+40	1915	657812833	CMakeFiles/Native.dir/preprocess.cpp.o	8a9f5b3bdd26decf
+6	1998	657812833	CMakeFiles/Native.dir/ocr_cls_process.cpp.o	e98cc5b6867af5e9
+18	2086	657812833	CMakeFiles/Native.dir/ocr_crnn_process.cpp.o	d8f04bec4a479541
+23	2242	657812833	CMakeFiles/Native.dir/ocr_ppredictor.cpp.o	3a19eb192c2dd2b8
+1	2335	657812833	CMakeFiles/Native.dir/native.cpp.o	a1e03ff9baf86a49
+4	1978	657824987	CMakeFiles/Native.dir/native.cpp.o	a1e03ff9baf86a49
+1979	2600	657824987	C:/Users/xjx/Documents/WeChat Files/wxid_ikt97owqc97512/FileStorage/File/2021-11/android_demo(1)/android_demo/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libNative.so	b4cd42a93934e031
+5	1891	657826829	CMakeFiles/Native.dir/native.cpp.o	a1e03ff9baf86a49
+1891	2485	657826829	C:/Users/xjx/Documents/WeChat Files/wxid_ikt97owqc97512/FileStorage/File/2021-11/android_demo(1)/android_demo/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libNative.so	b4cd42a93934e031
+11	602	657880034	CMakeFiles/Native.dir/ppredictor.cpp.o	77fca22c412dc1c5
+16	1778	657880035	CMakeFiles/Native.dir/ocr_ppredictor.cpp.o	3a19eb192c2dd2b8
+6	1957	657880035	CMakeFiles/Native.dir/native.cpp.o	a1e03ff9baf86a49
+1957	2553	657880036	C:/Users/xjx/Documents/WeChat Files/wxid_ikt97owqc97512/FileStorage/File/2021-11/android_demo(1)/android_demo/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libNative.so	b4cd42a93934e031

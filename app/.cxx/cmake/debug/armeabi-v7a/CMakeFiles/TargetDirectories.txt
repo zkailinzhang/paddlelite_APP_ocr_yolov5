@@ -1,0 +1,3 @@
+C:/Users/xjx/Documents/WeChat Files/wxid_ikt97owqc97512/FileStorage/File/2021-11/android_demo(1)/android_demo/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/Native.dir
+C:/Users/xjx/Documents/WeChat Files/wxid_ikt97owqc97512/FileStorage/File/2021-11/android_demo(1)/android_demo/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/xjx/Documents/WeChat Files/wxid_ikt97owqc97512/FileStorage/File/2021-11/android_demo(1)/android_demo/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

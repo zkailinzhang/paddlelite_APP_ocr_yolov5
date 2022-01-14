@@ -1,0 +1,7 @@
+Executable : E:\Software\AndroidSDK\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\xjx\Documents\WeChat Files\wxid_ikt97owqc97512\FileStorage\File\2021-11\android_demo(1)\android_demo\app\.cxx\cmake\debug\armeabi-v7a
+Native
+jvmArgs : 
+

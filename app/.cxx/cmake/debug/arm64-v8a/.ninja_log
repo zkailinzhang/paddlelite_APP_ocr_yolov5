@@ -1,0 +1,38 @@
+# ninja log v5
+196	1567	657801889	CMakeFiles/Native.dir/predictor_input.cpp.o	c8ce73436dd09f7c
+159	2592	657801890	CMakeFiles/Native.dir/ocr_db_post_process.cpp.o	ccdb1b9a8cfd09c0
+278	1622	657801889	CMakeFiles/Native.dir/predictor_output.cpp.o	34c187423e497436
+102	3871	657801891	CMakeFiles/Native.dir/ocr_crnn_process.cpp.o	2df4710a5c611c77
+9	556	657829131	CMakeFiles/Native.dir/ppredictor.cpp.o	50feecc307792ff1
+241	3123	657801890	CMakeFiles/Native.dir/preprocess.cpp.o	c171cc0dd8352cef
+35	2736	657801890	CMakeFiles/Native.dir/ocr_clipper.cpp.o	bc15dfeff1a8495d
+57	3724	657801891	CMakeFiles/Native.dir/ocr_cls_process.cpp.o	add738f098f779e7
+4	1842	657872399	CMakeFiles/Native.dir/native.cpp.o	490a1764af2ce8c6
+4	1702	657827501	CMakeFiles/Native.dir/ocr_ppredictor.cpp.o	136a852e3e6f235f
+1842	2515	657872400	C:/Users/xjx/Documents/WeChat Files/wxid_ikt97owqc97512/FileStorage/File/2021-11/android_demo(1)/android_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	7b7395290676c20c
+5	1992	657872825	CMakeFiles/Native.dir/native.cpp.o	490a1764af2ce8c6
+1993	2616	657872825	C:/Users/xjx/Documents/WeChat Files/wxid_ikt97owqc97512/FileStorage/File/2021-11/android_demo(1)/android_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	7b7395290676c20c
+5	1815	657872879	CMakeFiles/Native.dir/native.cpp.o	490a1764af2ce8c6
+1815	2439	657872880	C:/Users/xjx/Documents/WeChat Files/wxid_ikt97owqc97512/FileStorage/File/2021-11/android_demo(1)/android_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	7b7395290676c20c
+5	1846	657872997	CMakeFiles/Native.dir/native.cpp.o	490a1764af2ce8c6
+1846	2470	657872997	C:/Users/xjx/Documents/WeChat Files/wxid_ikt97owqc97512/FileStorage/File/2021-11/android_demo(1)/android_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	7b7395290676c20c
+5	2028	657873314	CMakeFiles/Native.dir/native.cpp.o	490a1764af2ce8c6
+2028	2648	657873315	C:/Users/xjx/Documents/WeChat Files/wxid_ikt97owqc97512/FileStorage/File/2021-11/android_demo(1)/android_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	7b7395290676c20c
+5	2058	657875974	CMakeFiles/Native.dir/native.cpp.o	490a1764af2ce8c6
+2058	2689	657875974	C:/Users/xjx/Documents/WeChat Files/wxid_ikt97owqc97512/FileStorage/File/2021-11/android_demo(1)/android_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	7b7395290676c20c
+7	2005	657876301	CMakeFiles/Native.dir/native.cpp.o	490a1764af2ce8c6
+2005	2636	657876302	C:/Users/xjx/Documents/WeChat Files/wxid_ikt97owqc97512/FileStorage/File/2021-11/android_demo(1)/android_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	7b7395290676c20c
+5	1865	657876392	CMakeFiles/Native.dir/native.cpp.o	490a1764af2ce8c6
+1865	2484	657876392	C:/Users/xjx/Documents/WeChat Files/wxid_ikt97owqc97512/FileStorage/File/2021-11/android_demo(1)/android_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	7b7395290676c20c
+4	1852	657876499	CMakeFiles/Native.dir/native.cpp.o	490a1764af2ce8c6
+1853	2473	657876500	C:/Users/xjx/Documents/WeChat Files/wxid_ikt97owqc97512/FileStorage/File/2021-11/android_demo(1)/android_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	7b7395290676c20c
+4	2041	657876814	CMakeFiles/Native.dir/native.cpp.o	490a1764af2ce8c6
+2041	2675	657876814	C:/Users/xjx/Documents/WeChat Files/wxid_ikt97owqc97512/FileStorage/File/2021-11/android_demo(1)/android_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	7b7395290676c20c
+5	2011	657877093	CMakeFiles/Native.dir/native.cpp.o	490a1764af2ce8c6
+2011	2643	657877094	C:/Users/xjx/Documents/WeChat Files/wxid_ikt97owqc97512/FileStorage/File/2021-11/android_demo(1)/android_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	7b7395290676c20c
+5	1932	657880683	CMakeFiles/Native.dir/native.cpp.o	490a1764af2ce8c6
+1932	2583	657880684	C:/Users/xjx/Documents/WeChat Files/wxid_ikt97owqc97512/FileStorage/File/2021-11/android_demo(1)/android_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	7b7395290676c20c
+4	2124	657883086	CMakeFiles/Native.dir/native.cpp.o	490a1764af2ce8c6
+2124	2819	657883086	C:/Users/xjx/Documents/WeChat Files/wxid_ikt97owqc97512/FileStorage/File/2021-11/android_demo(1)/android_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	7b7395290676c20c
+4	1977	657883458	CMakeFiles/Native.dir/native.cpp.o	490a1764af2ce8c6
+1977	2617	657883459	C:/Users/xjx/Documents/WeChat Files/wxid_ikt97owqc97512/FileStorage/File/2021-11/android_demo(1)/android_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	7b7395290676c20c
